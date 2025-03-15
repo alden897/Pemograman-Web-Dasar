@@ -18,7 +18,7 @@
 
 * **CSS : Penataan dan Tata Letak Elemen HTML**
 
-CSS adalah yang menambahkan gaya dan warna ke setiap halaman web. Sementara HTML mengendalikan struktur dokumen dengan paragraf, tajuk, dan gambar, CSS memungkinkan Anda menentukan warna, fon, tata letak, dan banyak lagi. Jika kita menganggap dokumen web sebagai tubuh manusia, HTML adalah kepala dan tubuh. CSS akan menjadi gayanya. Misalnya, warna mata kita, ukuran telinga kita, pigmen kulit kita, dan bahkan pakaian yang kita kenakan. Dengan kata lain – itu adalah penampilan dan gaya kita.
+  CSS adalah yang menambahkan gaya dan warna ke setiap halaman web. Sementara HTML mengendalikan struktur dokumen dengan paragraf, tajuk, dan gambar, CSS memungkinkan Anda menentukan warna, fon, tata letak, dan banyak lagi. Jika kita menganggap dokumen web sebagai tubuh manusia, HTML adalah kepala dan tubuh. CSS akan menjadi gayanya. Misalnya, warna mata kita, ukuran telinga kita, pigmen kulit kita, dan bahkan pakaian yang kita kenakan. Dengan kata lain – itu adalah penampilan dan gaya kita.
 
 * **Javascript : Menambahkan Interaktifitas dan Dinamika Pada Halaman Web**
 
