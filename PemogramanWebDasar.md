@@ -1,7 +1,7 @@
 # Tech Stack Dan Web Environment 
-*** Tech Stack**
+***Tech Stack**
   Tech stack adalah kumpulan teknologi yang digunakan dalam pengembangan suatu aplikasi atau sistem. Tech stack bisa mencakup berbagai komponen seperti bahasa pemrograman, kerangka kerja (framework), perpustakaan (libraries), server, alat pengelolaan basis data, dan alat pengembangan lainnya.
-*** Web Environment**
+***Web Environment**
   Web environment merujuk pada lingkungan di mana aplikasi web dijalankan, termasuk perangkat lunak, perangkat keras, dan konfigurasi yang mendukung pengembangan dan penyajian konten web. Ini mencakup browser, server, dan database yang berinteraksi untuk memberikan pengalaman pengguna yang optimal.
 # Frontend 
 Front end merupakan salah satu bagian dari website yang menampilkan tampilan untuk para pengguna. Pada bagian ini dibuat dengan menggunakan 3 bahasa pemrograman web yaitu HyperText Markup Language (HTML), Cascading Style Sheets (CSS), dan JavaScript. 
